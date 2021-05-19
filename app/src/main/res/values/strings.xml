@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BoomTown</string>
+    <string name="text2">If you want to test the RESTFUL GET results, I added an index variable in com.example.bootown.DisplayViewModel that will alter the character that is displayed about. I\'m truly sorry for not finishing in time and hope that my experience in learning this much in so short a time is worthy of praise!</string>
+    <string name="text1">This is not finished yet. I learned a LOT about Kotlin and Android studio in a very short amount time but I couldnt quite learn adapters in time. I want to still submit this to you, to show that I was able to accomplish the RESTful portions but also that I will be finishing this in my offtime as I think this is a wonderful app idea.</string>
+</resources>
